@@ -72,4 +72,20 @@ The dataset is composed of original and augmented grayscale mammogram images.
 
 ### Installation
 
+```bash
 pip install -r requirements.txt
+```
+
+🧬 Future Work
+
+- Incorporate more advanced architectures (e.g., ResNet, EfficientNet)
+- Improve explainability using Grad-CAM
+- Explore federated learning for privacy preservation
+- Deploy as a web app with a medical-grade interface
+
+👨‍💻 Author
+
+Abhilash Antony🎓 
+MSc Data Analytics
+Christ University
+💼 Intern @ SkynetClouds
