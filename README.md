@@ -70,6 +70,11 @@ The dataset is composed of original and augmented grayscale mammogram images.
 
 ---
 
+## 📽️ Demo Video
+
+Watch the live demo of the breast cancer detection system in action:  
+👉 [Click here to watch on YouTube](https://youtu.be/bAw29_oJn48)
+
 ### Installation
 
 ```bash
